@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TugasBasicComponents/static/css/main.81ccf77f.css",
+    "main.js": "/TugasBasicComponents/static/js/main.4a3802a6.js",
+    "static/js/453.2a82e7ac.chunk.js": "/TugasBasicComponents/static/js/453.2a82e7ac.chunk.js",
+    "index.html": "/TugasBasicComponents/index.html",
+    "main.81ccf77f.css.map": "/TugasBasicComponents/static/css/main.81ccf77f.css.map",
+    "main.4a3802a6.js.map": "/TugasBasicComponents/static/js/main.4a3802a6.js.map",
+    "453.2a82e7ac.chunk.js.map": "/TugasBasicComponents/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81ccf77f.css",
+    "static/js/main.4a3802a6.js"
+  ]
+}
